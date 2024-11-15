@@ -1,2 +1,1 @@
-# Financial Analysis In Accounting
- 
+# Financial Analysis
